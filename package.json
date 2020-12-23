@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-netlify-identity-gotrue",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "A Gatsby-layer around react-netlify-identity-gotrue for pure React Netlify Identity / GoTrue bindings",
   "main": "index.js",
   "repository": "https://github.com/jon-sully/gatsby-plugin-netlify-identity-gotrue",
