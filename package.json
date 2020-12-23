@@ -1,0 +1,30 @@
+{
+  "name": "gatsby-plugin-netlify-identity-gotrue",
+  "version": "0.0.1",
+  "description": "A Gatsby-layer around react-netlify-identity-gotrue for pure React Netlify Identity / GoTrue bindings",
+  "main": "index.js",
+  "repository": "https://github.com/jon-sully/gatsby-plugin-netlify-identity-gotrue",
+  "author": "@jon-sully",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react-netlify-identity-gotrue": "^0.0.2"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.0.0"
+  },
+  "keywords": [
+    "react",
+    "netlify",
+    "hooks",
+    "identity",
+    "auth",
+    "next",
+    "gatsby",
+    "gotrue"
+  ],
+  "bugs": {
+    "url": "https://github.com/jon-sully/react-netlify-identity-gotrue/issues",
+    "email": "hey@jonsully.net"
+  }
+}
