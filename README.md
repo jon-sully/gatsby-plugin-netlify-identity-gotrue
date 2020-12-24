@@ -37,7 +37,7 @@ module.exports = {
 
 #### Note ❗
 
-**This repository, the consuming [`gatsby-plugin-netlify-identity-gotrue-demo`][6] repository, and the underlying [`react-netlify-identity-gotrue`][2] repository are _not_ related to Netlify's [`netlify-identity-widget`][3] stack _or_ @sw-yx's [`react-netlify-identity`][4] stack, both of which ultimately sit on [`gotrue-js`][5]. *This* stack is written in pure React and interfaces with Netlify Identity directly without any dependencies. You can read some history about the three stacks here: https://jonsully.net/blog/announcing-react-netlify-identity-gotrue.**
+**This repository, the underlying [`react-netlify-identity-gotrue`][2] repository, and the  [`gatsby-plugin-netlify-identity-gotrue-demo`][6] repository that consumes this one are _not_ related to Netlify's [`netlify-identity-widget`][3] stack _or_ @sw-yx's [`react-netlify-identity`][4] stack, both of which ultimately sit on [`gotrue-js`][5]. *This* stack is written in pure React and interfaces with Netlify Identity directly without any dependencies. You can read some history about the three stacks here: https://jonsully.net/blog/announcing-react-netlify-identity-gotrue.**
 
 [2]:https://github.com/jon-sully/react-netlify-identity-gotrue
 [3]:https://github.com/netlify/netlify-identity-widget
