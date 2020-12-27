@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "react-netlify-identity-gotrue": "^0.2.4"
+    "react-netlify-identity-gotrue": "^0.2.5"
   },
   "peerDependencies": {
     "gatsby": "^2.0.0"
