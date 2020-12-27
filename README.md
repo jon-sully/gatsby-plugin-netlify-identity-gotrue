@@ -2,7 +2,7 @@
 
 ### See the demo! ✨ https://gatsby-identity-demo.jonsully.net ✨
 
- _See the demo code 🤖 [here][https://github.com/jon-sully/gatsby-plugin-netlify-identity-gotrue-demo]! 🤖_
+ _See the demo code 🤖 [here](https://github.com/jon-sully/gatsby-plugin-netlify-identity-gotrue-demo)! 🤖_
 
 ---
 
