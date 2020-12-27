@@ -25,7 +25,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-netlify-identity-gotrue`,
       options: {
-        url: `https://your-unique-site.netlify.app/` // ❗REQUIRED❗
+        url: `https://your-unique-site.netlify.app` // ❗REQUIRED❗
+        // Do _not_ include any path (/.netlify/identity, etc.) and
+        // leave the trailing slash off.
       }
     }
   ]
