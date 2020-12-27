@@ -52,7 +52,7 @@ export default () => {
   
   return {
     identity.user
-      ? <p>Welcome to your account, {identity.user?.email}</p>
+      ? <p>Welcome to your account, {identity.user.email}</p>
       : <p>Please log in</p>
   }
 }
