@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "react-netlify-identity-gotrue": "^0.3.1"
+    "react-netlify-identity-gotrue": "^0.3.2"
   },
   "peerDependencies": {
     "gatsby": "^2.0.0"
@@ -21,7 +21,8 @@
     "auth",
     "next",
     "gatsby",
-    "gotrue"
+    "gotrue",
+    "gatsby-plugin"
   ],
   "bugs": {
     "url": "https://github.com/jon-sully/react-netlify-identity-gotrue/issues",

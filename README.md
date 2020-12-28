@@ -8,6 +8,8 @@
 
 A simple Gatsby plugin for enabling a comprehensive and fully-featured Netlify Identity implementation into your Gatsby site. This plugin is a simplistic wrapper around [`react-netlify-identity-gotrue`][2]. See that repository for the full API documentation available within Gatsby.
 
+[![NPM](https://img.shields.io/npm/v/gatsby-plugin-netlify-identity-gotrue.svg)](https://www.npmjs.com/package/gatsby-plugin-netlify-identity-gotrue)
+
 ### Install
 
 ```sh
