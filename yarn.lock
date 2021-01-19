@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-react-netlify-identity-gotrue@^0.3.2:
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/react-netlify-identity-gotrue/-/react-netlify-identity-gotrue-0.3.2.tgz#fb088d2358cc971f8ee7e14092bbfacfbdcd4806"
-  integrity sha512-yaOoocUDk/FQAE/QmtAzKtU4w8U2+5uJ8GECR77JhUYTYXFv6Ngnx2rSQckzZiOyklvzc1QTFypt/YnYILoyqw==
+react-netlify-identity-gotrue@^0.3.3:
+  version "0.3.3"
+  resolved "https://registry.yarnpkg.com/react-netlify-identity-gotrue/-/react-netlify-identity-gotrue-0.3.3.tgz#b545fb844cef406a1c918555321250759c4bfbfa"
+  integrity sha512-QmV3AFnLXmpQfCDAOIi2bBG6SWnXUhBpc1FQ0EC4rcDK+kLpOyZCaSnEJlhpQAagjLJzxn+PQwBbjXkVH+7KNw==
