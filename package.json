@@ -11,7 +11,7 @@
     "react-netlify-identity-gotrue": "^0.3.5"
   },
   "peerDependencies": {
-    "gatsby": "^2.0.0"
+    "gatsby": "^3.0.0"
   },
   "keywords": [
     "react",
